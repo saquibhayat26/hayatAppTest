@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582009399105",
+    "project_id": "hayat-demo-app-c0342",
+    "storage_bucket": "hayat-demo-app-c0342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582009399105:android:8639c9b69dc78ce49e63c0",
+        "android_client_info": {
+          "package_name": "com.example.hayatDemoApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCFcTMlq-NzsR7JSK8y19RH2Ol8_Sbl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
